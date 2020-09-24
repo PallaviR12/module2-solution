@@ -1,0 +1,56 @@
+#header-nav{
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+}
+#header-nav{
+	border: 2px solid black;
+	height: 80px;
+}
+.navbar-brand h1 { 
+  font-family: 'Lora', serif;
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+h1{
+	margin: 0px;
+	text-align: center;
+	font-size: 200%; 
+	font-family: verdana;
+}
+#section1{
+	font-size: 150%;
+	font-weight: bold;
+    text-align:center;
+    margin: 20px;
+
+}
+.column{
+	background-color: grey;
+}
+#p1{
+	font-weight: bold;
+}
+li{
+	box-sizing: border-box;
+	width: 100%;
+}
+.icon-bar{
+	background-color: white;
+}
+.menu{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
